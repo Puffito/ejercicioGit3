@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b644e59d-32e6-403e-8601-69beea9cd562" name="Changes" comment="">
+    <list default="true" id="b644e59d-32e6-403e-8601-69beea9cd562" name="Changes" comment="añadiendo código para probar las propiedades de Java">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669045114814</updated>
     </task>
+    <task id="LOCAL-00001" summary="añadiendo código para probar las propiedades de Java">
+      <created>1669045831098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669045831098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +59,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="añadiendo código para probar las propiedades de Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="añadiendo código para probar las propiedades de Java" />
   </component>
 </project>
