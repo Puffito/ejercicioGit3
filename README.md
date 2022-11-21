@@ -3,7 +3,7 @@
 
 1. Creamos un repositorio nuevo en github con un README y un .gitignore
 
-![](img/Captura de pantalla 2022-11-21 165952.png)
+![](img/Captura de pantalla_2022-11-21_165952.png)
 
 2. Creamos un proyecto nuevo marcando la opción "Create Git repository"
 
